@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhchimiOthmen
 - 👀 I’m a Software Developer
 - 🌱 I’m currently learning at Esprit Engineering School
-<!- 💞️ I’m looking to collaborate on any web project using ..,...->
+<!--- 💞️ I’m looking to collaborate on any web project using ..,...--->
 - 🌱 Your and my growth are most essential, you can reach out to me for any question
 - 📫 How to reach me othmen.khchimi@esprit.tn
 -    Resume - 
